@@ -1,5 +1,5 @@
 <?php
-//Sintaxe básica dp PHP
+
 //Isso é um comentário de uma linha
 
 
@@ -25,17 +25,15 @@ Caso haja html, ele deve ser escrito fora do php ou o php deve ser escrito dentr
 
 //  As 3 principais variaveis de requisição HTTP do PHP são:
 
-$_GET // Recebe os dados transmitidos utilizando o GET
+$_GET //Recebe os dados transmitidos utilizando o GET
 
-$_POST // Faz a mesma coisa através de POST
+$_POST //Faz a mesma coisa através de POST
 
 //e
 
 $_REQUEST //  É considerada uma "coringa"  pois recebe os dados de ambas requisições
 
 // Uma outra caracteristica sobre as 3 variaveis acima, é que se tratam de arrays. Logo, quando há um input com o nome de um índice do conjunto, ele será requisitado.
-
-
 
 
 

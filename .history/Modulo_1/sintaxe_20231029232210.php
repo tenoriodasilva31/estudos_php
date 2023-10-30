@@ -1,5 +1,5 @@
 <?php
-//Sintaxe básica dp PHP
+
 //Isso é um comentário de uma linha
 
 
@@ -34,8 +34,6 @@ $_POST // Faz a mesma coisa através de POST
 $_REQUEST //  É considerada uma "coringa"  pois recebe os dados de ambas requisições
 
 // Uma outra caracteristica sobre as 3 variaveis acima, é que se tratam de arrays. Logo, quando há um input com o nome de um índice do conjunto, ele será requisitado.
-
-
 
 
 
